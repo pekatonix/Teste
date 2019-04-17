@@ -1,2 +1,4 @@
 # Teste
-Proieste de test
+Proiecte de test in lucru
+
+base info from http://pekatonix.ro
